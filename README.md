@@ -20,14 +20,13 @@ Building an application that will enable local grocery stores to get and supply 
 
 ## Process:
 
-    		Whole-salers portal:
+# Whole-salers portal:
 
                  -The whole-sale business owners have an option to sell their products
                   online with an option to auction their products.
     			 -It enables them to interact with the local business owners and opens
                   up an option to local business men to invest in their product.
-
-    		Customer portal:
+# Customer portal:
 
     			 -Customer will be displayed with all the options to buy from the
                   wholesaler.
@@ -61,3 +60,9 @@ Building an application that will enable local grocery stores to get and supply 
                  big players claim to have products available from over 1,000 brands. You'll also
                  find that product discovery is easier and you can see all deals special offers in
                  one place.In addition, they typically stock imported brands that are harder to find.
+## Auction option:
+        
+        We are providing the wholesalers with the option to auction their product online, so that they can
+        profit from it and also gain local business connections. We provide a platform with google meet
+        services for live interaction during the auction among the business owners.
+
